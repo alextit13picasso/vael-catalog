@@ -9,11 +9,11 @@
   "novels": [
     {
       "id": "brought_coffee_01",
-      "title": "Принесли кофе",
+      "title": "They brought the coffee",
       "duration_minutes": 12,
-      "description": "Меланхоличный осенний этюд о запахе свежей выпечки, корицы и неспешном течении времени в старом городе под аккомпанемент дождя.",
+      "description": "A melancholic autumn vignette about the scent of fresh baked goods and cinnamon, and the unhurried passage of time in an old town, set to the accompaniment of rain.",
       "is_premium": false,
-      "novel_url": "https://alextit13picasso.github.io/vael-coffee",
+      "novel_url": "https://alextit13picasso.github.io/vael-coffee/",
       "preview_image_url": "https://alextit13picasso.github.io/vael-catalog/previews/1_preview.png"
     },
     {
