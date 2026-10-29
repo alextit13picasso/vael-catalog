@@ -11,6 +11,7 @@
       "id": "brought_coffee_01",
       "title": "Принесли кофе",
       "duration_minutes": 12,
+      "is_release": true,
       "description": "Меланхоличная, атмосферная новелла об осеннем дожде, ускользающих человеческих связях и глубоких размышлениях за чашкой свежего кофе.",
       "is_premium": true,
       "novel_url": "https://alextit13picasso.github.io/vael-coffee/",
@@ -20,10 +21,21 @@
       "id": "airship_dance_02",
       "title": "Танец под дирижаблем",
       "duration_minutes": 8,
+      "is_release": true,
       "description": "Гротеск, короткая зарисовка, танец парня и девушки на огромном изолированном плато, залитом светом прожектора ночного дирижабля.",
       "is_premium": true,
       "novel_url": "https://alextit13picasso.github.io/2.-Dance-Beneath-the-Airship/",
       "preview_image_url": "https://alextit13picasso.github.io/vael-catalog/previews/2_preview.webp"
+    },
+    {
+      "id": "warrior_gene_03",
+      "title": "Ген воина",
+      "duration_minutes": 10,
+      "is_release": true,
+      "description": "Что произойдет с нашим миром если из него полностью искоренить агрессию и насилие? Рассказ о двух ученых которм удалось избавить человечество от гена воина.",
+      "is_premium": true,
+      "novel_url": "",
+      "preview_image_url": "https://alextit13picasso.github.io/vael-catalog/previews/3_preview.png"
     }
   ]
 }
